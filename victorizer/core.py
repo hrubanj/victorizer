@@ -24,5 +24,6 @@ def get_wisdom() -> str:
 def get_paper_link() -> str:
     return select_random_line(PAPER_LINKS_FILENAME)
 
+
 def get_short_cut() -> str:
     return select_random_line(SHORT_CUT_FILENAME)
