@@ -1,4 +1,3 @@
-config.json
 data/
 venv/
 .settings/
@@ -14,6 +13,5 @@ nbproject/
 *.orig
 # Byte-compiled / optimized / DLL files
 __pycache__/
-competition_prices_extractor/__pycache__/
 *.py[cod]
 .DS_Store
