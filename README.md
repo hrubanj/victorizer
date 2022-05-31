@@ -10,7 +10,13 @@ Je to maximalne nenaročná libka a vyžaduje len základnu zručnosť a Python 
 ```python 
 import victorizer
 
-victorizer.get_wisdom()
+print(victorizer.get_wisdom())
+
+print(victorizer.get_song())
+
+print(victorizer.get_shortcut())
+
+print(victorizer.get_paper_link())
 
 ```
 
