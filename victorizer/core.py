@@ -29,6 +29,14 @@ def get_wisdom() -> str:
     return select_random_line(WISDOMS_FILENAME)
 
 
+def get_song() -> str:
+    return select_random_line(SONGS_FILENAME)
+
+
+def get_paper_link() -> str:
+    return select_random_line(PAPER_LINKS_FILENAME)
+
+
 def get_shortcut() -> str:
     return select_random_line(SHORTCUT_FILENAME)
 
