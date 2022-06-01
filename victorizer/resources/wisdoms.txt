@@ -61,3 +61,4 @@ No, a můžu ti říct, jak to chápu já?
 Jak jsem nakoupil, tak prodávám.
 Prodávám, jak jsem nakoupil.
 Znáte někdo hru Kontakt?.... "následováno tichým odchodem všech lidí v místnosti"
+Já nechápu ten use-case.
