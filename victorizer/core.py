@@ -53,3 +53,7 @@ def open_paper_link() -> str:
 
 def play_song() -> str:
     return open_url(select_random_line(SONGS_FILENAME))
+
+
+def find_coffee() -> str:
+    return open_url(select_random_line(COFFEE_FILENAME))
