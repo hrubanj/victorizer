@@ -3,3 +3,19 @@ Query2Prod2Vec Grounded Word Embeddings for eCommerce|https://arxiv.org/pdf/2104
 BERT-based similarity learning for product matching|https://aclanthology.org/2020.ecomnlp-1.7.pdf
 Semantic Product Search|https://arxiv.org/pdf/1907.00937.pdf
 Transformer in Transformer|https://proceedings.neurips.cc/paper/2021/file/854d9fca60b4bd07f9bb215d59ef5561-Paper.pdf
+BERT-based similarity learning for product matching|https://aclanthology.org/2020.ecomnlp-1.7.pdf
+CONTENT2VEC: SPECIALIZING JOINT REPRESENTATIONS OF PRODUCT IMAGES AND TEXT FOR THE TASK OF PRODUCT RECOMMENDATION|https://openreview.net/pdf?id=ryTYxh5ll
+Contextual Sequence Modeling for Recommendation with Recurrent Neural Networks|https://arxiv.org/pdf/1706.07684.pdf
+Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation|https://arxiv.org/pdf/1607.07326.pdf
+Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba|https://arxiv.org/pdf/1803.02349.pdf
+KLEJ: Comprehensive Benchmark for Polish Language Understanding|https://aclanthology.org/2020.acl-main.111.pdf
+Using AntiPatterns to avoid MLOps Mistakes|https://arxiv.org/pdf/2107.00079.pdf
+BERT-based similarity learning for product matching|https://aclanthology.org/2020.ecomnlp-1.7.pdf
+Query2Prod2Vec: Grounded Word Embeddings for eCommerce|https://arxiv.org/pdf/2104.02061.pdf
+Collaborative Filtering for Implicit Feedback Datasets|http://yifanhu.net/PUB/cf.pdf
+OpenTag: Open Attribute Value Extraction from Product Profiles|https://arxiv.org/pdf/1806.01264v2.pdf
+Neural Collaborative Filtering|https://arxiv.org/pdf/1708.05031.pdf
+Semantic Product Search|https://arxiv.org/pdf/1907.00937.pdf
+Longformer: The Long-Document Transformer|https://arxiv.org/pdf/2004.05150.pdf
+Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning|https://arxiv.org/pdf/2006.02282.pdf
+DEBERTA: DECODING-ENHANCED BERT WITH DIS- ENTANGLED ATTENTION|https://arxiv.org/pdf/2006.03654.pdf
