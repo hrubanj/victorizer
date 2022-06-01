@@ -7,6 +7,7 @@ PAPER_LINKS_FILENAME = "paper_links.txt"
 SONGS_FILENAME = "songs.txt"
 SHORTCUT_FILENAME = "shortcuts.txt"
 RESOURCES_PACKAGE_NAME = "victorizer.resources"
+DESCRIPTION_URL_SEPARATOR = "|"
 
 
 def select_random_line(input_filename: str) -> str:
@@ -18,27 +19,31 @@ def select_random_line(input_filename: str) -> str:
     return random.choice(lines)
 
 
-def open_url(random_string: str) -> str:
-    lst = random_string.split('|')
-    print(lst[0])
-    webbrowser.open(lst[1])
+def open_url(input_string: str) -> None:
+    description, url = input_string.split(DESCRIPTION_URL_SEPARATOR)
+    print(description)
+    webbrowser.open(url)
 
 
 def get_wisdom() -> str:
     return select_random_line(WISDOMS_FILENAME)
 
 
-def open_paper_link() -> str:
-    open_url(
-        random_string=select_random_line(PAPER_LINKS_FILENAME)
-    )
+def get_song() -> str:
+    return select_random_line(SONGS_FILENAME)
 
 
-def play_song() -> str:
-    open_url(
-        select_random_line(SONGS_FILENAME)
-    )
+def get_paper_link() -> str:
+    return select_random_line(PAPER_LINKS_FILENAME)
 
 
 def get_shortcut() -> str:
     return select_random_line(SHORTCUT_FILENAME)
+
+
+def open_paper_link() -> None:
+    open_url(select_random_line(PAPER_LINKS_FILENAME))
+
+
+def play_song() -> None:
+    open_url(select_random_line(SONGS_FILENAME))
