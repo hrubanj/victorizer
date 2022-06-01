@@ -2,3 +2,4 @@ BERT Goes Shopping: Comparing Distributional Models for Product Representations 
 Query2Prod2Vec Grounded Word Embeddings for eCommerce https://arxiv.org/pdf/2104.02061.pdf
 BERT-based similarity learning for product matching - https://aclanthology.org/2020.ecomnlp-1.7.pdf
 Semantic Product Search - https://arxiv.org/pdf/1907.00937.pdf
+Transformer in Transformer - https://proceedings.neurips.cc/paper/2021/file/854d9fca60b4bd07f9bb215d59ef5561-Paper.pdf
