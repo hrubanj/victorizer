@@ -5,7 +5,8 @@ from .core import (
     get_song,
     get_paper_link,
     play_song,
-    get_coffee
+    get_coffee,
+    find_coffee
 )
 
-print("Promysli to a importuj me za mesic.")
+print("Promysli to, a importuj me za mesic.")
