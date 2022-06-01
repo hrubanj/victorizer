@@ -19,10 +19,11 @@ def select_random_line(input_filename: str) -> str:
     return random.choice(lines)
 
 
-def open_url(input_string: str) -> None:
+def open_url(input_string: str) -> str:
     description, url = input_string.split(DESCRIPTION_URL_SEPARATOR)
     print(description)
     webbrowser.open(url)
+    return description
 
 
 def get_wisdom() -> str:
@@ -41,9 +42,9 @@ def get_shortcut() -> str:
     return select_random_line(SHORTCUT_FILENAME)
 
 
-def open_paper_link() -> None:
-    open_url(select_random_line(PAPER_LINKS_FILENAME))
+def open_paper_link() -> str:
+    return open_url(select_random_line(PAPER_LINKS_FILENAME))
 
 
-def play_song() -> None:
-    open_url(select_random_line(SONGS_FILENAME))
+def play_song() -> str:
+    return open_url(select_random_line(SONGS_FILENAME))
