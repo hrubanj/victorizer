@@ -12,11 +12,11 @@ import victorizer
 
 print(victorizer.get_wisdom())
 
-print(victorizer.get_song())
+victorizer.play_song()
+
+victorizer.open_paper_link()
 
 print(victorizer.get_shortcut())
-
-print(victorizer.get_paper_link())
 
 ```
 
