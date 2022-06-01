@@ -18,30 +18,26 @@ def select_random_line(input_filename: str) -> str:
     return random.choice(lines)
 
 
-def extract_url(random_string: str, split_string: str) -> str:
-    lst = random_string.split(split_string)
-    url = lst[1]
-    name = lst[0]
-    return name, url
+def open_url(random_string: str) -> str:
+    lst = random_string.split('|')
+    print(lst[0])
+    webbrowser.open(lst[1])
 
 
 def get_wisdom() -> str:
     return select_random_line(WISDOMS_FILENAME)
 
 
-def get_paper_link() -> str:
-    paper_name, paper_url = extract_url(
-        random_string=select_random_line(PAPER_LINKS_FILENAME),
-        split_string=' - '
+def open_paper_link() -> str:
+    open_url(
+        random_string=select_random_line(PAPER_LINKS_FILENAME)
     )
-    print(paper_name)
-    webbrowser.open(paper_url)
 
 
-def get_song() -> str:
-    song_name, song_url = extract_url(select_random_line(SONGS_FILENAME), split_string=', ')
-    print(song_name)
-    webbrowser.open(song_url)
+def play_song() -> str:
+    open_url(
+        select_random_line(SONGS_FILENAME)
+    )
 
 
 def get_shortcut() -> str:
