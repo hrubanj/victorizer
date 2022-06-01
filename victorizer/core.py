@@ -1,6 +1,6 @@
 import importlib.resources
 import random
-
+import webbrowser
 
 WISDOMS_FILENAME = "wisdoms.txt"
 PAPER_LINKS_FILENAME = "paper_links.txt"
@@ -18,16 +18,26 @@ def select_random_line(input_filename: str) -> str:
     return random.choice(lines)
 
 
+def open_url(random_string: str) -> str:
+    lst = random_string.split('|')
+    print(lst[0])
+    webbrowser.open(lst[1])
+
+
 def get_wisdom() -> str:
     return select_random_line(WISDOMS_FILENAME)
 
 
-def get_paper_link() -> str:
-    return select_random_line(PAPER_LINKS_FILENAME)
+def open_paper_link() -> str:
+    open_url(
+        random_string=select_random_line(PAPER_LINKS_FILENAME)
+    )
 
 
-def get_song() -> str:
-    return select_random_line(SONGS_FILENAME)
+def play_song() -> str:
+    open_url(
+        select_random_line(SONGS_FILENAME)
+    )
 
 
 def get_shortcut() -> str:
