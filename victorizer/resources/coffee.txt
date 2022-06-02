@@ -1,13 +1,31 @@
-Ema espresso bar - Na Florenci 1420/3, 110 00 Nové Město
-Coffee room - Korunní 1208/74, 101 00 Vinohrady
-onesip coffe - Haštalská 755 /15, 110 00 Staré Město
-La Boheme Cafe - Sázavská 2031/32, 120 00 Vinohrady
-Cafe Letka - Letohradská 44, 170 00 Praha 7
-Cukrárna Alchymista - Jana Zajíce 975/7, 170 00 Praha 7
-Místo - Bubenečská 12, Dejvice, 160 00 Místo-Praha
-Můj šálek kávy - Křižíkova 386/105, 186 00 Praha 8
-Barry Higgel's Coffehouse - Tusarova 25, 170 00 Praha 7
-Vnitroblock - Tusarova 31, 170 00 Praha 7
-Tvoje máma - Slovinská 1052, 101 00 Praha 10
-🍷 Viniční altán 🍷 - Havlíčkovy sady 1369, 120 00 Praha 2
-🍻 Stalin 🍻 - Letenské sady Praha 7, 170 00 Praha 7
+EMA Espresso Bar - Na Florenci 1420/3, 110 00 Nové Město|https://goo.gl/maps/3FCJ5rV9YonUdzSR8
+EMA Espresso Bar - Thámova 289/13, 186 00 Praha 8 - Karlín|https://goo.gl/maps/mVtW4ERPxTKA6zvN7
+Coffee room - Korunní 1208/74, 101 00 Vinohrady|https://goo.gl/maps/SrktiKvUR8fYDi8u7
+onesip coffe - Haštalská 755 /15, 110 00 Staré Město|https://g.page/onesipcoffee?share
+La Boheme Cafe - Sázavská 2031/32, 120 00 Vinohrady|https://g.page/LaBohemeCafe?share
+Cafe Letka - Letohradská 44, 170 00 Praha 7 - Letná|https://g.page/cafeletka?share
+Alchymista - Jana Zajíce 975/7, 170 00 Praha 7 - Bubeneč|https://goo.gl/maps/Asm82oyzfATNoqFW8
+Místo - Bubenečská 12, Dejvice, 160 00 Místo - Praha 6|https://g.page/mistoprovas?share
+Můj šálek kávy - Křižíkova 386/105, 186 00 Praha 8 - Karlín|https://g.page/mujsalekkavy?share
+Barry Higgel's Coffehouse - Tusarova 25, 170 00 Praha 7 - Holešovice|https://goo.gl/maps/vzvRHPpBTu7Uksxu8
+Vnitroblock - Tusarova 31, 170 00 Praha 7 - Holešovice|https://g.page/vnitroblock?share
+Tvoje máma - Slovinská 1052, 101 00 Praha 10 - Vršovice|https://goo.gl/maps/SyjX9zHY9xZkv18v6
+Botanica Coffee Truck - Moskevská 372/35, 101 00 Praha 10 - Vršovice|https://en.mapy.cz/s/cetegohuse
+Typika - Svatoslavova 319/21, 140 00 Praha 4 - Nusle|https://g.page/typika_coffee?share
+Typika Espresso Bar - Kodaňská 646/24, 101 00 Praha 10 - Vršovice|https://www.google.com/maps/place/TYPIKA+espresso+bar/@50.0706669,14.4566654,17z/data=!3m1!4b1!4m5!3m4!1s0x470b93d10c55086b:0x454ac51113794c9f!8m2!3d50.0706754!4d14.458857
+The FLAT - Kodaňská 81/4, 101 00 Praha 10 - Vršovice|https://goo.gl/maps/99jPDcWbLvU1ixfE9
+RONIN Coffee Spot - Jana Masaryka 332/52, 120 00 Praha 2 - Vinohrady|https://g.page/ronin-coffee-spot?share
+The Miners - Slavíkova 1611/5, 120 00 Praha 2 - Vinohrady|https://goo.gl/maps/tp6DSTijWJQ74XtVA
+The Miners - Italská 2584/69, 120 00 Praha 2 - Vinohrady|https://g.page/theminerschurchill?share
+Spižírna 1902 - Korunní 1113/86, 101 00 Praha 10 - Vinohrady|https://g.page/spizirna?share
+Typhoon Coffee - Altajská 1568/2, 100 00 Praha 10 - Vršovice|https://goo.gl/maps/xyfJduRPkAccpV4S9
+SLOW Cafe - Francouzská 966/33, 12000 Praha 2 - Vinohrady|https://goo.gl/maps/HL4Hm9yv6LVRmyX5A
+HENRI Espresso Bar - Havlíčkova 1030/1, 110 00 Praha 1 - Nové Město|https://goo.gl/maps/pPD26o8m45krMFfb6
+Urban café - Na poříčí 1061/37, 110 00 Praha 1 - Nové Město|https://goo.gl/maps/wYqpuv9TQzfyfd9H7
+Acid Coffee - Dukelských Hrdinů 25, 170 00 Praha 7 - Holešovice|https://goo.gl/maps/1fo7TDnfUbApVx9X6
+Cafe Hrnek - Veletržní 839/49, 170 00 Praha 7 - Holešovice|https://g.page/cafe-hrnek?share
+SKØG Urban Hub - Dominikánské náměstí 187/5, 602 00 Brno-město|https://goo.gl/maps/KiesHDGorvqn9psc7
+🍸 Bar, který neexistuje 🍸 - Dvořákova 24/1, 60200 Brno-město|https://goo.gl/maps/vPuFhZ6iYqh5ysvr6
+🍹 4pokoje 🍹 - Vachova 45/6, 60200 Brno-město|https://goo.gl/maps/USbxszQBX7DCuKwKA
+🍷 Viniční altán 🍷 - Havlíčkovy sady 1369, 120 00 Praha 2|https://goo.gl/maps/uJB7Scq9Bj9B7EMQ6
+🍻 Stalin 🍻 - Letenské sady Praha 7, 170 00 Praha 7|https://www.google.com/maps/place/Stalin/@50.0946844,14.4138916,17z/data=!3m1!4b1!4m5!3m4!1s0x470b94dd01b119b1:0x8df962f059960bcf!8m2!3d50.0946844!4d14.4160803
