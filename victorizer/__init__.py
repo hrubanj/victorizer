@@ -6,7 +6,9 @@ from .core import (
     get_paper_link,
     play_song,
     get_coffee,
-    find_coffee
+    find_coffee,
+    get_food,
+    find_food
 )
 
 print("Promysli to, a importuj me za mesic.")
