@@ -7,6 +7,7 @@ PAPER_LINKS_FILENAME = "paper_links.txt"
 SONGS_FILENAME = "songs.txt"
 SHORTCUT_FILENAME = "shortcuts.txt"
 COFFEE_FILENAME = "coffee.txt"
+FOOD_FILENAME = "food.txt"
 RESOURCES_PACKAGE_NAME = "victorizer.resources"
 DESCRIPTION_URL_SEPARATOR = "|"
 
@@ -57,3 +58,11 @@ def play_song() -> str:
 
 def find_coffee() -> str:
     return open_url(select_random_line(COFFEE_FILENAME))
+
+
+def get_food() -> str:
+    return select_random_line(FOOD_FILENAME)
+
+
+def find_food() -> str:
+    return open_url(select_random_line(FOOD_FILENAME))
