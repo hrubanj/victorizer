@@ -71,3 +71,4 @@ Znáte někdo hru Kontakt?.... "následováno tichým odchodem všech lidí v m�
 Já nechápu ten use-case.
 V 90% případů je to tak vždycky.
 To je tejpek ze šestého patra, co dělá bonusy.
+Proč máš v tom SQL čárky na začátcích řádků a středníky na samostatných řádcích?
