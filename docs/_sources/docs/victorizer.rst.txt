@@ -1,0 +1,29 @@
+victorizer package
+==================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   victorizer.resources
+
+Submodules
+----------
+
+victorizer.core module
+----------------------
+
+.. automodule:: victorizer.core
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: victorizer
+   :members:
+   :undoc-members:
+   :show-inheritance:

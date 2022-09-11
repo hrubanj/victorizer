@@ -1,0 +1,10 @@
+victorizer.resources package
+============================
+
+Module contents
+---------------
+
+.. automodule:: victorizer.resources
+   :members:
+   :undoc-members:
+   :show-inheritance:
